@@ -1,0 +1,7 @@
+numpy
+quantecon
+matplotlib
+numba
+scipy
+ipykernel
+pandas
